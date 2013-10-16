@@ -1,0 +1,291 @@
+	//---------------------------------------------------
+	// test #1 functionality (passed)
+	//----------------------------------------------------
+	/*
+	cout<< b.getidentity()<<endl;
+	char answer;
+	cin>> answer;
+	if(answer==b.selfchar())
+	{
+		system("cls");
+		cout<< p.getidentity()<<endl;
+		cin>> answer;
+		if(answer!=p.selfchar())
+	
+			cout <<"failed!"<<endl;
+	}
+	
+	else
+		cout <<"failed!"<<endl;
+	cout<< m.getidentity()<<endl;
+	cin>> answer;
+	if(answer==m.selfchar())
+	{
+
+		cout<< f.getidentity()<<endl;
+		cin>> answer;
+		if(answer==f.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+
+	cout<< d.getidentity()<<endl;
+	cin>> answer;
+	if(answer==d.selfchar())
+	{
+
+		cout<< t.getidentity()<<endl;
+		cin>> answer;
+		if(answer==t.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+	cout<< n.getidentity()<<endl;
+	cin>> answer;
+	if(answer==n.selfchar())
+	{
+
+		cout<< l.getidentity()<<endl;
+		cin>> answer;
+		if(answer==l.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+
+	cout<< g.getidentity()<<endl;
+	cin>> answer;
+	if(answer==g.selfchar())
+	{
+
+		cout<< k.getidentity()<<endl;
+		cin>> answer;
+		if(answer==k.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+
+	cout<< h.getidentity()<<endl;
+	cin>> answer;
+	if(answer==h.selfchar())
+	{
+
+		cout<< j.getidentity()<<endl;
+		cin>> answer;
+		if(answer==j.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+
+	cout<< q.getidentity()<<endl;
+	cin>> answer;
+	if(answer==q.selfchar())
+	{
+
+		cout<< x.getidentity()<<endl;
+		cin>> answer;
+		if(answer==x.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+
+	cout<< zh.getidentity()<<endl;
+	cin>> answer;
+	if(answer==zh.selfchar())
+	{
+
+		cout<< ch.getidentity()<<endl;
+		cin>> answer;
+		if(answer==ch.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+
+	cout<< sh.getidentity()<<endl;
+	cin>> answer;
+	if(answer==sh.selfchar())
+	{
+
+		cout<< r.getidentity()<<endl;
+		cin>> answer;
+		if(answer==r.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+
+	cout<< z.getidentity()<<endl;
+	cin>> answer;
+	if(answer==z.selfchar())
+	{
+
+		cout<< c.getidentity()<<endl;
+		cin>> answer;
+		if(answer==c.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+	cout<< s.getidentity()<<endl;
+	cin>> answer;
+	if(answer==s.selfchar())
+	{
+
+		cout<< s.getidentity()<<endl;
+		cin>> answer;
+		if(answer==s.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+
+	cout<< y.getidentity()<<endl;
+	cin>> answer;
+	if(answer==y.selfchar())
+	{
+
+		cout<<w.getidentity()<<endl;
+		cin>>answer;
+		if(answer==w.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+	cout<< yu.getidentity()<<endl;
+	cin>> answer;
+	if(answer==yu.selfchar())
+	{
+
+		cout<< a.getidentity()<<endl;
+		cin>> answer;
+		if(answer==a.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+
+	cout<< o.getidentity()<<endl;
+	cin>> answer;
+	if(answer==o.selfchar())
+	{
+
+		cout<< e.getidentity()<<endl;
+		cin>> answer;
+		if(answer==e.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+
+	cout<< eh.getidentity()<<endl;
+	cin>> answer;
+	if(answer==eh.selfchar())
+	{
+
+		cout<< ai.getidentity()<<endl;
+		cin>> answer;
+		if(answer==ai.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+	
+	cout<< ei.getidentity()<<endl;
+	cin>> answer;
+	if(answer==ei.selfchar())
+	{
+
+		cout<< ao.getidentity()<<endl;
+		cin>> answer;
+		if(answer==ao.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+	cout<< ou.getidentity()<<endl;
+	cin>> answer;
+	if(answer==ou.selfchar())
+	{
+
+		cout<< an.getidentity()<<endl;
+		cin>> answer;
+		if(answer==an.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+	
+
+	cout<< en.getidentity()<<endl;
+	cin>> answer;
+	if(answer==en.selfchar())
+	{
+
+		cout<< ang.getidentity()<<endl;
+		cin>> answer;
+		if(answer==ang.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+
+
+
+	cout<< eng.getidentity()<<endl;
+	cin>> answer;
+	if(answer==eng.selfchar())
+	{
+
+		cout<< er.getidentity()<<endl;
+		cin>> answer;
+		if(answer==er.selfchar())
+		cout<<"good job! It is working"<<endl;
+		else
+			cout <<"failed!"<<endl;
+	}
+	else
+		cout <<"failed!"<<endl;
+	return 0;
+
+
+	*/
